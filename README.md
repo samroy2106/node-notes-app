@@ -1,8 +1,8 @@
-How to use:
-With Node.js installed, clone the project and run 'npm install' to add all dependencies.
+How to use:<br />
+With Node.js installed, clone the project and run 'npm install' to add all dependencies.<br /><br />
 
-Commands:
-Add note: node app.js add --title="Your title" --body="Your body"\n
-Remove note: node app.js remove --title="Your title"\n
-List all notes: node app.js list\n
+Commands:<br />
+Add note: node app.js add --title="Your title" --body="Your body"<br />
+Remove note: node app.js remove --title="Your title"<br />
+List all notes: node app.js list<br />
 Read a note: node app.js read --title="Your title"
