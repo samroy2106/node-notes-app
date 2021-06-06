@@ -2,7 +2,7 @@
 With Node.js installed, clone the project and run 'npm install' to add all dependencies.<br />
 
 <b>Commands:</b><br />
-Add note: node app.js add --title="Your title" --body="Your body"<br />
-Remove note: node app.js remove --title="Your title"<br />
-List all notes: node app.js list<br />
-Read a note: node app.js read --title="Your title"
+<b>Add note:</b> node app.js add --title="Your title" --body="Your body"<br />
+<b>Remove note:</b> node app.js remove --title="Your title"<br />
+<b>List all notes:</b> node app.js list<br />
+<b>Read a note:</b> node app.js read --title="Your title"
